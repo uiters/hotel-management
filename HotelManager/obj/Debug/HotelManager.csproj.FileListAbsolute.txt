@@ -1,0 +1,105 @@
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\bin\Debug\MetroFramework.dll
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.csprojResolveAssemblyReference.cache
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.Cache
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fManager.resources
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\bin\Debug\MaterialSkin.dll
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+C:\Users\NguyễnDuyCương\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+D:\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+D:\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+D:\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.csprojResolveAssemblyReference.cache
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.fManager.resources
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.fPay.resources
+D:\HotelManager\HotelManager\obj\Debug\HotelManager.fRoom.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csprojResolveAssemblyReference.cache
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fManager.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fPay.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fRoom.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\ndc07\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.fProfile.resources
+C:\Users\ndc07\Downloads\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\ndc07\Downloads\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\ndc07\Downloads\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAbout.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fBill.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fManagement.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fParameter.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fProfile.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fReport.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fRoom.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fService.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fStaff.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\bin\Debug\FlashControlV71.dll
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\bin\Debug\MetroFramework.dll
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fUpdateCustomerInfo.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAccess.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddService.resources
+C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
