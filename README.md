@@ -11,8 +11,6 @@
 * [Build with](#build-with)
 * [Documents](#documents)
 * [Bugs and Issues](#bugs-and-issues)
-* [Some screens](#some-screens)
-* [Authors](#authors)
 * [License](#license)
 
 ## Features
@@ -64,39 +62,8 @@ For help getting started with C#, view our online [documentation](https://docs.m
 
 ## Bugs and Issues
 
-Have a bug or an issue with this project? [Open a new issue](https://github.com/ndc07/hotel-management/issues) here on GitHub.
-
-## Some screens
-
-* `Login`
-
-![33207220_2071955243072376_4137995320892063744_n](https://user-images.githubusercontent.com/34389409/48674410-5fc5b800-eb7e-11e8-8cbf-0b2a845c627c.png)
-
-* `Book room`
-
-![33351157_2071955466405687_8877175527945797632_n](https://user-images.githubusercontent.com/34389409/48674412-66542f80-eb7e-11e8-983b-683fe144fe5f.png)
-
-* `Receive room`
-
-![33427304_2071955723072328_974694238862180352_n](https://user-images.githubusercontent.com/34389409/48674407-576d7d00-eb7e-11e8-929d-7df9d7582fa2.png)
-
-* `Order serices and checkout`
-
-![32745681_2069079696693264_2972182965867511808_n](https://user-images.githubusercontent.com/34389409/48674408-59374080-eb7e-11e8-9bab-7a63544afe84.png)
-
-* `Manage account`
-
-![33426050_2071955869738980_6822006137479495680_n](https://user-images.githubusercontent.com/34389409/48674405-55a3b980-eb7e-11e8-825b-0fb6875c9423.png)
-
-**`And more screens ...`**
-
-## Authors
-
-* **Nguyen Duy Cuong** - [ndc07](https://github.com/ndc07) 💎
-* **Vi Chi Thien** - [yeutham212](https://github.com/yeutham212) 🐱
-* **Le Huu Thang** - [lhthang1998](https://github.com/lhthang1998) 🐷
-* **Tran Minh Triet** - [triet1213](https://github.com/triet1213) 🐶
+Have a bug or an issue with this project? [Open a new issue](https://github.com/cuongw/hotel-management/issues) here on GitHub.
 
 ## License
 
-[MIT](https://github.com/ndc07/ting-music/blob/master/LICENSE)
+MIT
