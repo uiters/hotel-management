@@ -25,6 +25,7 @@
 * Add New Item and Add SQL Server Database to your application.
 * Add a table to your application and fill some data in it.
 * Show the data in your main form.
+
 **2. Create a Setup Project**
 
 * Add new project => setup and deployment => setup project.
