@@ -2,7 +2,20 @@
 
 🏨🚪🛌🛎️ Hotel Management App using C#.
 
-![Hotel Management](https://user-images.githubusercontent.com/34389409/44379692-556d3100-a531-11e8-8105-2c0ae4dff559.png)
+![page-58-image-22](https://user-images.githubusercontent.com/34389409/48669982-2ec79200-eb42-11e8-8f1c-cd7d7b1eb5a2.png)
+
+## Features
+
+* Book room
+* Receive room
+* Order services
+* Checkout & print invoice
+* Manage room & room type
+* Manage service & service type
+* Manage account
+* Decentralization
+* Sales report
+* Manage regulation
 
 ## Authors
 
